@@ -1,0 +1,59 @@
+*{
+    box-sizing: border-box;
+    margin: 0PX;
+    padding: 0px;
+    color: white;
+    font-family:'Itim', cursive;
+    text-align: center;
+    
+}
+
+body{
+    background-color: bisque;
+} 
+
+h2{
+    margin-right: 40px;
+}
+
+input{ 
+    padding: 5px;
+    margin: 30px; 
+    font-weight:bold ;
+    font-size:large ;
+    color: white;
+    background-color: darkgray;
+    border-radius: 10px;
+    }
+button{
+    padding: 10px;
+    border-radius: 10px;
+    color: aliceblue;
+     background-color: rgb(247, 173, 82);
+     font-size:medium;
+     font-weight:bold ;
+     margin-right: 60px;
+     border-width: 5px;
+}
+button:hover{
+    background-color: rgb(83, 83, 82);
+}
+
+p{
+    font-weight: bold;
+    font-size: large;
+    margin-right: 180px;
+}
+
+ .container{
+    width: 800px;
+    height:250px ;
+    background-color: #0E2F2F;
+    margin-left: 200px;
+    margin-top: 200px;
+    border-radius: 10px; 
+}
+#cal{
+    margin-top: 20px;
+    margin-left: 25px;
+}
